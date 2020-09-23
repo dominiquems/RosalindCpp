@@ -22,7 +22,7 @@ std::string readFile(std::string fileName)
 }
 
 /**
-* @ brief Count the number of occurences of each nucleotide in DNA
+* @brief Count the number of occurences of each nucleotide in DNA
 * 
 * @param dnaSeq: string, represents a DNA sequence
 * @return: map, nucleotide (char): count(int)
